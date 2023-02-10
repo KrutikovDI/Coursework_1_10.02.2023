@@ -1,0 +1,120 @@
+17:29:40 - main - INFO - <module>: 18 - Hello
+17:35:51 - main - INFO - <module>: 18 - Hello
+17:35:56 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+17:35:57 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "PUT /v1/disk/resources?path=40537 HTTP/1.1" 201 111
+17:35:57 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+17:36:08 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=40537&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 200 6877
+17:36:08 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+17:36:09 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=40537%2F3.jpg&url=https%3A%2F%2Fsun9-north.userapi.com%2Fsun9-80%2Fs%2Fv1%2Fif1%2FD-5VK6K_WZl3-cS7xPyxYY0RzMW8RD22Gf-pJCX1DxkLe9f5NUDOvpwhe54ytRc0T0I.jpg%3Fsize%3D261x453%26quality%3D96%26type%3Dalbum HTTP/1.1" 202 156
+17:36:09 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+17:36:12 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=40537%2F4.jpg&url=https%3A%2F%2Fsun9-32.userapi.com%2Fc4132%2Fu40537%2F-6%2Fx_e2c6e1e5.jpg HTTP/1.1" 202 156
+17:36:12 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+17:36:13 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=40537%2F11.jpg&url=https%3A%2F%2Fsun9-83.userapi.com%2Fc906%2Fu40537%2F-6%2Fx_146c1567.jpg HTTP/1.1" 202 156
+17:36:13 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+17:36:17 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=40537%2F6.jpg&url=https%3A%2F%2Fsun9-west.userapi.com%2Fsun9-49%2Fs%2Fv1%2Fif1%2FYCbrcAhLuL_WvXQjno2Fooc_a7t7W79ZXrB1f1aL0HGffASqkKoVF_42YIOkmFpIEorMjQ.jpg%3Fsize%3D404x650%26quality%3D96%26type%3Dalbum HTTP/1.1" 202 156
+17:36:17 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+17:36:18 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=40537%2F17.jpg&url=https%3A%2F%2Fsun9-west.userapi.com%2Fsun9-51%2Fs%2Fv1%2Fif2%2F0UV9Fb93jjZwG-kuwH8rXYcdttWevbMoDuqKEFepnNza2isW2Fctkl5ph98Ur_eMMNu1RXgBB6dFXZa55n0t7wcz.jpg%3Fsize%3D1496x2048%26quality%3D96%26type%3Dalbum HTTP/1.1" 202 156
+17:36:18 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+17:36:29 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=40537&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 200 6877
+17:45:08 - main - INFO - <module>: 16 - Hello
+17:45:52 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+17:45:53 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "PUT /v1/disk/resources?path=34406486 HTTP/1.1" 201 114
+17:45:53 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+17:46:04 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=34406486&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 200 4847
+17:46:04 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+17:46:05 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=34406486%2F32.jpg&url=https%3A%2F%2Fsun9-24.userapi.com%2Fc10500%2Fu34406486%2F-6%2Fy_50c92878.jpg HTTP/1.1" 202 156
+17:46:05 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+17:46:06 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=34406486%2F32.jpg&url=https%3A%2F%2Fsun9-east.userapi.com%2Fsun9-31%2Fs%2Fv1%2Fif2%2FowPGmkLI-tHCCkJdcOGSponCGd3oW1HMta8ReR_HQObCKCLz1lghv4JJr3rTN4sTcugcsk9LKruNqNVqY1ZqrtI5.jpg%3Fsize%3D789x931%26quality%3D96%26type%3Dalbum HTTP/1.1" 202 156
+17:46:06 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+17:46:07 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=34406486%2F29.jpg&url=https%3A%2F%2Fsun9-east.userapi.com%2Fsun9-41%2Fs%2Fv1%2Fif2%2FUtDc6zBTi1RM3Q7qKaJ0WtrGWymQE44j4r0JNZsawZuG0QYnR-nodjrBSZn0oCl3U3JcC81eryMMpaJ47vuW9cei.jpg%3Fsize%3D769x1187%26quality%3D96%26type%3Dalbum HTTP/1.1" 202 156
+17:46:07 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+17:46:08 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=34406486%2F29.jpg&url=https%3A%2F%2Fsun9-west.userapi.com%2Fsun9-12%2Fs%2Fv1%2Fif1%2FqzyBcUs_KCJZutODcfA2a4vTLAo6hwMtYBbhvrnLr2Xh48CMG-95PANU1tC91l0c5zdgZnXR.jpg%3Fsize%3D1960x1102%26quality%3D96%26type%3Dalbum HTTP/1.1" 202 156
+17:46:08 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+17:46:09 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=34406486%2F33.jpg&url=https%3A%2F%2Fsun9-west.userapi.com%2Fsun9-65%2Fs%2Fv1%2Fif1%2FVruUot8HU78D5n6QSlHZF57C7Jj1wC1Izjux8LFG_HbZu3e9bFoFJMDx2DPr2fG_a7OZlyIs.jpg%3Fsize%3D1280x960%26quality%3D96%26type%3Dalbum HTTP/1.1" 202 156
+17:46:09 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+17:46:11 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=34406486&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 504 90
+17:55:44 - main - INFO - <module>: 16 - Hello
+17:56:08 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+17:56:10 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "PUT /v1/disk/resources?path=361500724 HTTP/1.1" 201 115
+17:56:10 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+17:56:12 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=361500724&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 504 90
+17:57:36 - main - INFO - <module>: 16 - Hello
+17:58:45 - main - INFO - <module>: 16 - Hello
+17:58:55 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+17:58:56 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "PUT /v1/disk/resources?path=361500724 HTTP/1.1" 409 253
+17:58:56 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+17:58:57 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=361500724&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 502 90
+18:03:35 - main - INFO - <module>: 16 - Hello
+18:06:05 - main - INFO - <module>: 16 - Hello
+18:06:13 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+18:06:14 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "PUT /v1/disk/resources?path=361500724 HTTP/1.1" 201 115
+18:06:14 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+18:06:26 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=361500724&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 200 2553
+18:06:26 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+18:06:27 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=361500724%2F157.jpg&url=https%3A%2F%2Fsun9-west.userapi.com%2Fsun9-13%2Fs%2Fv1%2Fif1%2FdKN0Kq0fTPgbQ5AgXwvY8a8IDeeZiPabgE1ja73yYYHSPmdennzRZYVP6oSTQhLdlaP-5MFk.jpg%3Fsize%3D525x529%26quality%3D96%26type%3Dalbum HTTP/1.1" 202 156
+18:06:27 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+18:06:28 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=361500724%2F112.jpg&url=https%3A%2F%2Fsun9-north.userapi.com%2Fsun9-85%2Fs%2Fv1%2Fig2%2FqmM7OTEBONtSXZC6Qf5a9N4NNjjjnye_zi6oQYj0qzdMBWJZJLdTUgtA8W7hqa7zjNnbs68dAb2kdD2KshZCdbnV.jpg%3Fsize%3D682x1024%26quality%3D95%26type%3Dalbum HTTP/1.1" 202 156
+18:06:28 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+18:06:29 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=361500724%2F197.jpg&url=https%3A%2F%2Fsun9-west.userapi.com%2Fsun9-2%2Fs%2Fv1%2Fig2%2FPGFaR52g9X6ss8Xb-AhpUuWW9VsGAhhaLDtLF24VcUNjW0qsBlqmpro6eNHQebS1XxTfIpQVlZdy8FjG5VF9ZzCA.jpg%3Fsize%3D986x1224%26quality%3D95%26type%3Dalbum HTTP/1.1" 202 156
+18:06:29 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+18:06:37 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=361500724&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 200 2553
+18:07:40 - main - INFO - <module>: 16 - Hello
+18:07:47 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+18:07:48 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "PUT /v1/disk/resources?path=40537 HTTP/1.1" 201 111
+18:07:48 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+18:07:50 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=40537&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 504 90
+16:02:48 - main - INFO - <module>: 16 - Hello
+16:02:52 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:02:53 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "PUT /v1/disk/resources?path=591613969 HTTP/1.1" 201 115
+16:02:53 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+16:02:54 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=591613969&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 200 1825
+16:02:54 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:02:54 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=591613969%2F79.jpg&url=https%3A%2F%2Fsun9-west.userapi.com%2Fsun9-10%2Fs%2Fv1%2Fig1%2FLTm13ca3tNCMbgxPMtrbSCK3BEw2ErFy3tKZR8l8Mwz-z9E2nHk-EHWjrqh1t9oyDcJP6sRj.jpg%3Fsize%3D1600x1200%26quality%3D96%26type%3Dalbum HTTP/1.1" 202 155
+16:02:54 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:02:55 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=591613969%2F297.jpg&url=https%3A%2F%2Fsun9-east.userapi.com%2Fsun9-26%2Fs%2Fv1%2Fig2%2FtMtJI8FMUTw_CqT_nLN0_J4ryJvnzVgmiabdQeyOLyvOpwwFFrcpi22qhEzz1SPBctkM4m21l2Fk1BU52w0UXOkj.jpg%3Fsize%3D1600x1600%26quality%3D96%26type%3Dalbum HTTP/1.1" 202 155
+16:02:55 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+16:02:56 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=591613969&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 200 1825
+16:03:33 - main - INFO - <module>: 16 - Hello
+16:03:40 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:03:41 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "PUT /v1/disk/resources?path=12546482 HTTP/1.1" 201 114
+16:03:41 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+16:03:41 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=12546482&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 200 7325
+16:03:41 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:03:42 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=12546482%2F0.jpg&url=https%3A%2F%2Fsun9-36.userapi.com%2Fc708%2Fu12546482%2F-6%2Fy_4c2051c3.jpg HTTP/1.1" 202 156
+16:03:42 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:03:43 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=12546482%2F5.jpg&url=https%3A%2F%2Fsun9-70.userapi.com%2Fc10802%2Fu12546482%2F-6%2Fw_21f98741.jpg HTTP/1.1" 202 156
+16:03:43 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:03:44 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=12546482%2F2.jpg&url=https%3A%2F%2Fsun9-59.userapi.com%2Fc9664%2Fu12546482%2F-6%2Fw_868e48a4.jpg HTTP/1.1" 202 156
+16:03:44 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:03:45 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=12546482%2F6.jpg&url=https%3A%2F%2Fsun9-5.userapi.com%2Fc10261%2Fu12546482%2F141477834%2Fw_34620398.jpg HTTP/1.1" 202 156
+16:03:45 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:03:46 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=12546482%2F5.jpg&url=https%3A%2F%2Fsun9-19.userapi.com%2Fc4514%2Fu12546482%2F141477834%2Fw_53a62962.jpg HTTP/1.1" 202 156
+16:03:46 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+16:03:47 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=12546482&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 200 7325
+16:06:09 - main - INFO - <module>: 16 - Hello
+16:07:55 - main - INFO - <module>: 16 - Hello
+16:08:12 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:08:13 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "PUT /v1/disk/resources?path=4784119 HTTP/1.1" 201 113
+16:08:13 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+16:08:15 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=4784119&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 200 1004
+16:08:15 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:08:16 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=4784119%2F150.jpg&url=https%3A%2F%2Fsun9-west.userapi.com%2Fsun9-69%2Fs%2Fv1%2Fif1%2FrlRU05zNow5YIPOdo-3SliC5hhHCBnvqipq5A72Z2Mgpkkoug9Mj8CXFDifQNJrMykUwYe3d.jpg%3Fsize%3D769x963%26quality%3D96%26type%3Dalbum HTTP/1.1" 202 156
+16:08:16 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+16:08:17 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=4784119&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 200 1004
+16:08:57 - main - INFO - <module>: 16 - Hello
+16:09:18 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:09:19 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "PUT /v1/disk/resources?path=507470 HTTP/1.1" 201 112
+16:09:19 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+16:09:20 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=507470&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 200 23183
+16:09:20 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:09:21 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=507470%2F42.jpg&url=https%3A%2F%2Fsun9-67.userapi.com%2Fc10487%2Fu507470%2F-6%2Fw_dcacad09.jpg HTTP/1.1" 202 156
+16:09:21 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:09:22 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=507470%2F17.jpg&url=https%3A%2F%2Fsun9-west.userapi.com%2Fsun9-3%2Fs%2Fv1%2Fif2%2FrtFWb-6N64XW7mpOp8BS_NymH4_ckkEqW8wBiTj4o6EsPF-bQU1-H3YCeg4vtUMa0YsCWQ3G7rcezGqXp3a0ZDTZ.jpg%3Fsize%3D1280x853%26quality%3D96%26type%3Dalbum HTTP/1.1" 202 156
+16:09:22 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:09:23 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=507470%2F89.jpg&url=https%3A%2F%2Fsun9-east.userapi.com%2Fsun9-58%2Fs%2Fv1%2Fif1%2FScUKso1NKodwwpZeaOdqp9PoPpkr_w81mopOX2XERd90hKabc3bWi0p4JB1q2Di-3kRy_g.jpg%3Fsize%3D2560x1707%26quality%3D96%26type%3Dalbum HTTP/1.1" 202 156
+16:09:23 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:09:24 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=507470%2F117.jpg&url=https%3A%2F%2Fsun9-west.userapi.com%2Fsun9-39%2Fs%2Fv1%2Fif1%2FXWS9-2HOp1elyI1zvYzygd9d3OiEbywuzCys5zIAyGH8ZBmqPCE5RshEM6hTXlZdU7Yip5A_.jpg%3Fsize%3D768x1024%26quality%3D96%26type%3Dalbum HTTP/1.1" 202 156
+16:09:24 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): cloud-api.yandex.net:443
+16:09:25 - connectionpool - DEBUG - _make_request: 456 - https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=507470%2F81.jpg&url=https%3A%2F%2Fsun9-east.userapi.com%2Fsun9-30%2Fs%2Fv1%2Fif1%2FkCvBYFWtHXP49qvKk85_bvGfi4Z5iwbppe9LKfK4IsfztD3JtEClJU472ptCIuloubnmDLtr.jpg%3Fsize%3D1620x2160%26quality%3D96%26type%3Dalbum HTTP/1.1" 202 156
+16:09:25 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): api.vk.com:443
+16:09:25 - connectionpool - DEBUG - _make_request: 456 - https://api.vk.com:443 "GET /method/photos.get?access_token=vk1.a.lxUDUk089kwXRLgyIhlapw3tRvnc2YW3Iwa0Q7BVEF2qEWfOXmd5LgTNOHWQlYGxbAVnmgh3gdw0bsEVMdMZx49J68lsjwDRPA7aA9ivbFAJIMwQtwnjKLSs4TPdGEOqNRLlB-24L9IkUoT7KS8fFHt4UG82dMv0dKj4InQspsiHu5w3_US2sF35Hncet09pdo3ckaBRwxZiDhC32aDmrA%0A&v=5.131&owner_id=507470&album_id=profile&extended=1&photo_sizes=1 HTTP/1.1" 200 23183
